@@ -1,0 +1,22 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .navbar {
+    margin-bottom: 20px;
+  }
+
+  .product-card {
+    margin-bottom: 30px;
+  }
+
+  footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+.logo {
+  max-width: 150px; 
+  height: auto; 
+}
