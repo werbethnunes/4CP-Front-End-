@@ -32,4 +32,4 @@ Aspectos Visuais e Funcionalidade
 •	Foco em Sustentabilidade: Todos os produtos e descrições são orientados para um estilo de vida sustentável, refletindo o objetivo principal da aplicação.
 •	Responsividade: O uso do Bootstrap garante que o site seja responsivo, ajustando-se bem a diferentes tamanhos de tela.
 
-# Aplicação criada como forma de aprendizado das utilizações do bootstrap, dentro de um ecommerce.
+### Aplicação criada como forma de aprendizado das utilizações do bootstrap, dentro de um ecommerce.
